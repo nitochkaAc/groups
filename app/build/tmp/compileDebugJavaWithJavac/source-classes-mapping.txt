@@ -1,0 +1,137 @@
+com/example/groups/First5Fragment.java
+ com.example.groups.First5Fragment
+ com.example.groups.First5Fragment$1
+com/example/groups/First4Fragment.java
+ com.example.groups.First4Fragment
+ com.example.groups.First4Fragment$1
+com/example/groups/StudentsChange.java
+ com.example.groups.StudentsChange
+com/example/groups/users.java
+ com.example.groups.users
+com/example/groups/TTermActivity.java
+ com.example.groups.TTermActivity
+ com.example.groups.TTermActivity$1
+ com.example.groups.TTermActivity$StudentsAsyncTask
+com/example/groups/CourseActivity.java
+ com.example.groups.CourseActivity
+ com.example.groups.CourseActivity$1
+ com.example.groups.CourseActivity$CoursesAsyncTask
+ com.example.groups.CourseActivity$CoursesAsyncTask$1
+com/example/groups/CDiscipline.java
+ com.example.groups.CDiscipline
+ com.example.groups.CDiscipline$1
+ com.example.groups.CDiscipline$CoursesAsyncTask
+com/example/groups/First2Fragment.java
+ com.example.groups.First2Fragment
+ com.example.groups.First2Fragment$1
+com/example/groups/First3Fragment.java
+ com.example.groups.First3Fragment
+ com.example.groups.First3Fragment$1
+com/example/groups/SecondFragment.java
+ com.example.groups.SecondFragment
+ com.example.groups.SecondFragment$1
+com/example/groups/Courses.java
+ com.example.groups.Courses
+com/example/groups/TeachersActivity.java
+ com.example.groups.TeachersActivity
+ com.example.groups.TeachersActivity$1
+ com.example.groups.TeachersActivity$CoursesAsyncTask
+ com.example.groups.TeachersActivity$CoursesAsyncTask$1
+com/example/groups/MainActivity.java
+ com.example.groups.MainActivity
+ com.example.groups.MainActivity$1
+ com.example.groups.MainActivity$HttpAsyncTask
+com/example/groups/ClientActivity.java
+ com.example.groups.ClientActivity
+ com.example.groups.ClientActivity$1
+ com.example.groups.ClientActivity$StudentsAsyncTask
+ com.example.groups.ClientActivity$StudentsAsyncTask$1
+com/example/groups/ActivityUsers.java
+ com.example.groups.ActivityUsers
+ com.example.groups.ActivityUsers$1
+ com.example.groups.ActivityUsers$UsersAsyncTask
+ com.example.groups.ActivityUsers$UsersAsyncTask$1
+com/example/groups/Teacher.java
+ com.example.groups.Teacher
+com/example/groups/TimeTable.java
+ com.example.groups.TimeTable
+com/example/groups/MainTeacher.java
+ com.example.groups.MainTeacher
+com/example/groups/Students.java
+ com.example.groups.Students
+com/example/groups/ZhurnalActivity.java
+ com.example.groups.ZhurnalActivity
+ com.example.groups.ZhurnalActivity$1
+ com.example.groups.ZhurnalActivity$DisciplineAsyncTask
+ com.example.groups.ZhurnalActivity$StudentsAsyncTask
+ com.example.groups.ZhurnalActivity$StudentsAsyncTask$1
+com/example/groups/FirstFragment.java
+ com.example.groups.FirstFragment
+ com.example.groups.FirstFragment$1
+com/example/groups/BuildConfig.java
+ com.example.groups.BuildConfig
+com/example/groups/ChangeUser.java
+ com.example.groups.ChangeUser
+ com.example.groups.ChangeUser$1
+ com.example.groups.ChangeUser$CoursesAsyncTask
+ com.example.groups.ChangeUser$PostAsyncTask
+com/example/groups/ChangeCourse.java
+ com.example.groups.ChangeCourse
+ com.example.groups.ChangeCourse$1
+ com.example.groups.ChangeCourse$CoursesAsyncTask
+ com.example.groups.ChangeCourse$DeleteUserAsyncTask
+ com.example.groups.ChangeCourse$DisciplineAsyncTask
+ com.example.groups.ChangeCourse$PostAsyncTask
+com/example/groups/Lessons.java
+ com.example.groups.Lessons
+com/example/groups/SGChangeActivity.java
+ com.example.groups.SGChangeActivity
+com/example/groups/StudyGroups.java
+ com.example.groups.StudyGroups
+com/example/groups/Second5Fragment.java
+ com.example.groups.Second5Fragment
+ com.example.groups.Second5Fragment$1
+com/example/groups/Second4Fragment.java
+ com.example.groups.Second4Fragment
+ com.example.groups.Second4Fragment$1
+com/example/groups/Auditory.java
+ com.example.groups.Auditory
+com/example/groups/Second3Fragment.java
+ com.example.groups.Second3Fragment
+ com.example.groups.Second3Fragment$1
+com/example/groups/Discipline.java
+ com.example.groups.Discipline
+com/example/groups/LessonsActivity.java
+ com.example.groups.LessonsActivity
+ com.example.groups.LessonsActivity$1
+ com.example.groups.LessonsActivity$StudentsAsyncTask
+ com.example.groups.LessonsActivity$StudentsAsyncTask$1
+com/example/groups/CreateTeachActivity.java
+ com.example.groups.CreateTeachActivity
+ com.example.groups.CreateTeachActivity$1
+ com.example.groups.CreateTeachActivity$1$1
+com/example/groups/DisciplineActivity.java
+ com.example.groups.DisciplineActivity
+ com.example.groups.DisciplineActivity$1
+ com.example.groups.DisciplineActivity$CoursesAsyncTask
+com/example/groups/Second2Fragment.java
+ com.example.groups.Second2Fragment
+ com.example.groups.Second2Fragment$1
+com/example/groups/GroupsActivity.java
+ com.example.groups.GroupsActivity
+ com.example.groups.GroupsActivity$1
+ com.example.groups.GroupsActivity$StudentsAsyncTask
+com/example/groups/StudyGroupActivity.java
+ com.example.groups.StudyGroupActivity
+ com.example.groups.StudyGroupActivity$1
+ com.example.groups.StudyGroupActivity$StudentsAsyncTask
+ com.example.groups.StudyGroupActivity$StudentsAsyncTask$1
+com/example/groups/Admin_panel.java
+ com.example.groups.Admin_panel
+ com.example.groups.Admin_panel$1
+ com.example.groups.Admin_panel$2
+com/example/groups/ChangeSG.java
+ com.example.groups.ChangeSG
+ com.example.groups.ChangeSG$1
+ com.example.groups.ChangeSG$CoursesAsyncTask
+ com.example.groups.ChangeSG$TermAsyncTask
