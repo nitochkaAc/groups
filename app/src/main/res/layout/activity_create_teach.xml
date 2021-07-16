@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreateTeachActivity">
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    <TableRow>
+        <TextView
+            android:text="@string/Id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/idTV"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/idShow"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Ім'я викладача"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/firstNameTV"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameET"
+            android:inputType="text"
+            android:text="Name"
+            android:ems="10"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Дата народження"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/degreeTV"/>
+
+        <Button
+            android:id="@+id/date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:onClick="setDate"
+            android:text="Изменить дату"
+            app:backgroundTint="@color/lemon"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="Початок роботи, дата"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/disciplinesTV"/>
+
+        <Button
+            android:id="@+id/date2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:onClick="setDate"
+            android:text="Изменить дату"
+            app:backgroundTint="@color/bright_y"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+    </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Телефон"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/phoneTV"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/degreeET"
+                android:inputType="number"
+                android:text="0"
+                android:ems="10"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Профіль"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/userTV"/>
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/disciplinesSpinner"
+                android:layout_column="1"
+                />
+        </TableRow>
+        <Button
+        android:id="@+id/ButtonCreateOrChangeUser"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:onClick="btnOnSave"
+        android:text="@string/change_"
+        app:backgroundTint="#3F51B5"
+         />
+
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

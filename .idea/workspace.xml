@@ -31,14 +31,118 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a0c44ce-75d1-4a4a-b0ac-ec5f99f2064d" name="Default Changelist" comment="">
-      <changelist_data name="nitochkaAc" email="" />
-      <change afterPath="$PROJECT_DIR$/Groups.patch" afterDir="false" />
+    <list default="true" id="8a0c44ce-75d1-4a4a-b0ac-ec5f99f2064d" name="Default Changelist" comment="for_me">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/groups/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/ActivityUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Admin_panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Auditory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/CDiscipline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/ChangeCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/ChangeSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/ChangeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/ClientActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/CourseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/CreateTeachActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Discipline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/DisciplineActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/First2Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/First3Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/First4Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/First5Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/GroupsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Lessons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/LessonsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/MainTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/SGChangeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Second2Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Second3Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Second4Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Second5Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/StudentsChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/StudyGroupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/StudyGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/TTermActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/TeachersActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/TimeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/ZhurnalActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/groups/users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_admin_panel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cdiscipline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_change_course.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_change_s_g.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_change_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_course.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_create_teach.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_discipline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_lessons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_teacher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_s_g_change.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_students_change.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_study_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_t_term.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_teachers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_zhurnal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_admin_panel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main_teacher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_first2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_first3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_first4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_first5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_second2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_second3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_second4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_second5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/groups/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -48,6 +152,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,7 +180,13 @@
         <option value="Nito" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1sLr20O0qd2EEpyhuUgrW0VYYET" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Groups.patch" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -86,7 +208,7 @@
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-220205782">
+    <key name="android.template.476558133">
       <recent name="com.example.groups" />
     </key>
     <key name="android.template.1332559191">
@@ -98,7 +220,7 @@
     <key name="android.template.1823171745">
       <recent name="com.example.groups" />
     </key>
-    <key name="android.template.476558133">
+    <key name="android.template.-220205782">
       <recent name="com.example.groups" />
     </key>
   </component>
@@ -193,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626441381681</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003">
+      <created>1626441700719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626441700720</updated>
+    </task>
+    <task id="LOCAL-00004" summary="for_me">
+      <created>1626441962270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626441962270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,15 +342,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="for_me" />
+    <option name="LAST_COMMIT_MESSAGE" value="for_me" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="106" key="#PSD" timestamp="1626441073316">
+    <state x="571" y="0" width="230" height="505" key="#Notifications" timestamp="1626441992189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="200" y="106" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1626441073316" />
+    <state x="571" y="0" width="230" height="505" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1626441992189" />
+    <state x="200" y="106" key="#PSD" timestamp="1626442662723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="106" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1626442662723" />
+    <state x="429" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626443993568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1626443993568" />
     <state x="491" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1623361710576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,26 +401,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="606" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1620760836624" />
-    <state x="466" y="110" key="FileChooserDialogImpl" timestamp="1626441159125">
+    <state x="110" y="100" width="1153" height="528" maximized="true" key="DiffContextDialog" timestamp="1626443236714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="466" y="110" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626441159125" />
-    <state width="1323" height="104" key="GridCell.Tab.0.bottom" timestamp="1623476854222">
+    <state x="110" y="100" width="1153" height="528" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1626443236714" />
+    <state x="466" y="110" key="FileChooserDialogImpl" timestamp="1626442482809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623476854222" />
-    <state width="1323" height="104" key="GridCell.Tab.0.center" timestamp="1623476854222">
+    <state x="466" y="110" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626442482809" />
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom" timestamp="1626443894076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623476854222" />
-    <state width="1323" height="104" key="GridCell.Tab.0.left" timestamp="1623476854221">
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626443894076" />
+    <state width="1323" height="217" key="GridCell.Tab.0.center" timestamp="1626443894075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623476854221" />
-    <state width="1323" height="104" key="GridCell.Tab.0.right" timestamp="1623476854222">
+    <state width="1323" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1626443894075" />
+    <state width="1323" height="217" key="GridCell.Tab.0.left" timestamp="1626443894075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623476854222" />
+    <state width="1323" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1626443894075" />
+    <state width="1323" height="217" key="GridCell.Tab.0.right" timestamp="1626443894075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1626443894075" />
     <state width="1293" height="288" key="GridCell.Tab.1.bottom" timestamp="1620762519815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -295,14 +445,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="266" y="84" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1626441253875" />
-    <state x="375" y="66" key="RollbackChangesDialog" timestamp="1626441546141">
+    <state x="375" y="66" key="RollbackChangesDialog" timestamp="1626443113384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1626441546141" />
+    <state x="375" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1626443113384" />
     <state x="187" y="0" key="SettingsEditor" timestamp="1626440491404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1626440491404" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1626443561774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626443561774" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626441552662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -327,5 +481,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1626441026940" />
+    <state x="210" y="64" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1626443985111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="64" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.728@0.0.1366.728" timestamp="1626443985111" />
   </component>
 </project>

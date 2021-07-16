@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChangeCourse">
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <TableRow>
+            <TextView
+                android:text="@string/Id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/idTV"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/idShow"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="@string/nameC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/firstNameTV"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nameET"
+                android:inputType="text"
+                android:text="Name"
+                android:ems="10"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="@string/degree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/degreeTV"/>
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/degreeET"
+                android:inputType="number"
+                android:text="0"
+                android:ems="10"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="@string/disciplines"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/disciplinesTV"/>
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/disciplinesSpinner"
+                android:layout_column="1"
+                />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/descriptionTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/description" />
+
+            <EditText
+                android:id="@+id/descriptionET"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+
+        </TableRow>
+<TableRow>
+        <Button
+            android:id="@+id/ButtonCreateOrChangeUser"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@android:drawable/presence_online"
+            android:onClick="btnOnSave"
+            android:text="@string/change_"
+            app:backgroundTint="@android:color/holo_green_dark"
+            app:iconTint="@color/purple_500" />
+
+        <Button
+            android:id="@+id/buttonDeletUser"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@android:drawable/ic_delete"
+            android:onClick="btnOnDelete"
+            android:text="@string/delete"
+            app:backgroundTint="@color/design_default_color_error"
+            app:iconTint="?attr/colorError" />
+</TableRow>
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TTermActivity">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="260dp">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bdTV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="Понеділок" />
+
+            <EditText
+                android:id="@+id/firstET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bd2TV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="Вівторок" />
+
+            <EditText
+                android:id="@+id/secondET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bd3TV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="Середа" />
+
+            <EditText
+                android:id="@+id/thirdET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bd4TV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="Четвер" />
+
+            <EditText
+                android:id="@+id/fourthET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bd5TV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="П'ятниця" />
+
+            <EditText
+                android:id="@+id/fivethET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bd6TV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="Субота" />
+
+            <EditText
+                android:id="@+id/sixthET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/bd7TV"
+                android:layout_width="70dp"
+                android:layout_height="75dp"
+                android:text="Неділя" />
+
+            <EditText
+                android:id="@+id/seventhET"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+        </TableRow>
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
